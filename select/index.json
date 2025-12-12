@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "バッドリピートエンド",
+  "base_artist": "35.7",
+  "createdAt": "2025-12-12T12:31:17.301440Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バッドリピートエンド",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/01_バッドリピートエンド_35.7.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バッドリピートエンド",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/pl_01_バッドリピートエンド_35.7.txt"
+    }
+  ]
+}
